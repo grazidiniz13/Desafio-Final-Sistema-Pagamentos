@@ -23,4 +23,4 @@ Repositório dedicado à entrega do **Desafio Final da Trilha Backend**. O objet
 ## 🚀 Como executar o projeto
 1. Clone este repositório na sua máquina:
    ```bash
-   git clone 
+   git clone (https://github.com/grazidiniz13/Desafio-Final-Sistema-Pagamentos.git)
